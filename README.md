@@ -1,2 +1,2 @@
-# My-Python-projects
-I have completed these projects while learning on datacamp.
+# Generating Keywords for Google Ads
+I have completed this project while learning on datacamp.
